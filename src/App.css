@@ -1,0 +1,102 @@
+.app {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    min-height: 100vh;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.nav {
+    border-bottom: 1px solid #21262d;
+    padding: 10px 10px;
+}
+
+.TwitterLogo {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.tweetBox {
+    margin-bottom: 20px;
+}
+
+.textarea {
+    width: 100%;
+    background-color: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 4px;
+    color: #c9d1d9;
+    padding: 10px;
+    resize: none;
+}
+
+.button {
+    background-color: #1a8cd8;
+    color: white;
+    border: none;
+    border-radius: 9999px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.tweet {
+    border-bottom: 1px solid #21262d;
+    padding: 15px 0;
+}
+
+.tweetHeader {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: #21262d;
+    margin-right: 10px;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.handle {
+    color: #8b949e;
+    margin-left: 5px;
+}
+
+.tweetContent {
+    margin-bottom: 10px;
+}
+
+.tweetActions {
+    display: flex;
+    justify-content: space-between;
+    color: #8b949e;
+}
+
+.actionButton {
+    background-color: transparent;
+    border: none;
+    color: #8b949e;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+.moreIcon {
+    margin-left: auto;
+}

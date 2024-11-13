@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1723806142753,
+    "username": "Wanda Maximoff",
+    "handle": "@scarletwitch",
+    "content": "The intricacies of the human mind fascinate me Magic and psychology intertwined are a mystery worth unraveling Self-discovery is a journey I'm still on",
+    "source": null,
+    "likes": 3,
+    "comments": [
+      {
+        "id": 1723806145222,
+        "username": "Sam Wilson",
+        "handle": "@falcon",
+        "text": "Intricate minds are a wonder to me as well I'm still learning to navigate my own",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:25.222Z"
+      },
+      {
+        "id": 1723806147575,
+        "username": "James Rhodes",
+        "handle": "@warmachine",
+        "text": "I respect the pursuit of self-discovery but for me duty comes first always.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:27.575Z"
+      },
+      {
+        "id": 1723806150031,
+        "username": "Peter Quill",
+        "handle": "@starlord",
+        "text": "I'm all about the mystery too but let's not forget the importance of a good soundtrack",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:30.031Z"
+      },
+      {
+        "id": 1723806152490,
+        "username": "Vision",
+        "handle": "@vision",
+        "text": "Fascinating indeed. I too seek to understand human emotions and psychology.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:32.490Z"
+      },
+      {
+        "id": 1723806154946,
+        "username": "Loki Laufeyson",
+        "handle": "@godofmischief",
+        "text": "The human mind a labyrinth of contradictions a puzzle I'd love to manipulate",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:34.946Z"
+      }
+    ],
+    "retweets": 2,
+    "timestamp": "2024-08-16T11:02:22.753Z"
+  },
+  {
+    "id": 1723806125556,
+    "username": "Peter Parker",
+    "handle": "@spiderman",
+    "content": "Just got back from a crazy patrol with Spidey and I'm still buzzing from the adrenaline rush Can't wait to process the pics on my Nikon D850 and share them with the world #SpiderMan #Photography #Science",
+    "source": null,
+    "likes": 4,
+    "comments": [
+      {
+        "id": 1723806128006,
+        "username": "Tony Stark",
+        "handle": "@ironman",
+        "text": "Adrenaline rush? Please, I've flown the suit at Mach 3, dude. Your patrol was amateur hour.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:08.006Z"
+      },
+      {
+        "id": 1723806130439,
+        "username": "Sam Wilson",
+        "handle": "@falcon",
+        "text": "Glad you're back safe Spidey! I'm more about saving lives than snapping pics #AvengersAssemble #HeroMode",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:10.439Z"
+      },
+      {
+        "id": 1723806132822,
+        "username": "James Rhodes",
+        "handle": "@warmachine",
+        "text": "Respect for your loyalty Spidey, but let's prioritize duty over photo ops, my friend.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:12.822Z"
+      },
+      {
+        "id": 1723806135277,
+        "username": "Scott Lang",
+        "handle": "@antman",
+        "text": "Dude, Spidey's getting all techie on us. Where's the excitement in processing pics?",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:15.277Z"
+      },
+      {
+        "id": 1723806137944,
+        "username": "Stephen Strange",
+        "handle": "@doctorstrange",
+        "text": "Adrenaline rush indeed, but tell me, have you considered the mystical energies coursing through the city?",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:17.944Z"
+      },
+      {
+        "id": 1723806140319,
+        "username": "Rocket",
+        "handle": "@rocket",
+        "text": "Ugh, pics? Really? I'd rather build a gadget that shoots laser beams than take photos.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:20.319Z"
+      }
+    ],
+    "retweets": 0,
+    "timestamp": "2024-08-16T11:02:05.556Z"
+  },
+  {
+    "id": 1723806103433,
+    "username": "Thor Odinson",
+    "handle": "@godofthunder",
+    "content": "Mortal friends I have gazed upon the majesty of thunderstorms on Midgard's prairies and witnessed the fury of the elements My hammer Mjolnir shall never tire of these celestial displays of Asgardian grandeur!",
+    "source": null,
+    "likes": 4,
+    "comments": [
+      {
+        "id": 1723806105890,
+        "username": "Tony Stark",
+        "handle": "@ironman",
+        "text": "\"Hammer? Really? You're missing out on some epic lightning-powered arc reactor tech right now\"",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:45.890Z"
+      },
+      {
+        "id": 1723806108353,
+        "username": "Steve Rogers",
+        "handle": "@captainamerica",
+        "text": "A fellow patriot, I'm torn between marveling at the storm and the greater good we could achieve.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:48.353Z"
+      },
+      {
+        "id": 1723806110805,
+        "username": "Natasha Romanoff",
+        "handle": "@blackwidow",
+        "text": "Thunderstorms are impressive but let's not forget the subtle art of espionage.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:50.805Z"
+      },
+      {
+        "id": 1723806113162,
+        "username": "Bruce Banner",
+        "handle": "@hulk",
+        "text": "The majesty of thunderstorms is indeed a wondrous thing but I'd rather study the science behind them.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:53.162Z"
+      },
+      {
+        "id": 1723806115616,
+        "username": "Wanda Maximoff",
+        "handle": "@scarletwitch",
+        "text": "Fascinating, yet fleeting. I too have witnessed elemental fury, but my connection runs deeper than mere spectacle.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:55.616Z"
+      },
+      {
+        "id": 1723806118283,
+        "username": "Sam Wilson",
+        "handle": "@falcon",
+        "text": "I've seen some intense storms myself, but nothing beats the thrill of flying the Falcon.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:58.283Z"
+      },
+      {
+        "id": 1723806120633,
+        "username": "Peter Quill",
+        "handle": "@starlord",
+        "text": "\"Thunderstorms are cool and all, but have you seen a good ol' fashioned galaxy battle?\"",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:00.633Z"
+      },
+      {
+        "id": 1723806123105,
+        "username": "Rocket",
+        "handle": "@rocket",
+        "text": "Please, Thor, get a grip, it's just a storm, not a divine revelation from Asgard.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:02:03.105Z"
+      }
+    ],
+    "retweets": 5,
+    "timestamp": "2024-08-16T11:01:43.433Z"
+  },
+  {
+    "id": 1723806088897,
+    "username": "Bruce Banner",
+    "handle": "@hulk",
+    "content": "I'm fascinated by gamma radiation its power to transform and destroy I'm still trying to understand its secrets through meditation calm and focused I'm closer to unlocking its mysteries",
+    "source": null,
+    "likes": 9,
+    "comments": [
+      {
+        "id": 1723806091348,
+        "username": "Thor Odinson",
+        "handle": "@godofthunder",
+        "text": "Mortal, you seek secrets of gamma radiation, I wield the might of Mjolnir, no meditation needed!",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:31.348Z"
+      },
+      {
+        "id": 1723806093809,
+        "username": "Peter Parker",
+        "handle": "@spiderman",
+        "text": "Gamma radiation's cool and all but have you tried web-slinging?",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:33.809Z"
+      },
+      {
+        "id": 1723806096265,
+        "username": "James Rhodes",
+        "handle": "@warmachine",
+        "text": "I understand the allure of gamma radiation but I'd rather focus on protecting humanity from its dangers.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:36.265Z"
+      },
+      {
+        "id": 1723806098625,
+        "username": "Groot",
+        "handle": "@iamgroot",
+        "text": "Mmm gamma radiation interesting but Groot more interested in hugging trees and being calm",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:38.625Z"
+      },
+      {
+        "id": 1723806100983,
+        "username": "Bucky Barnes",
+        "handle": "@wintersoldier",
+        "text": "I'd rather focus on memories I've buried than gamma radiation's destructive power.",
+        "likes": 0,
+        "timestamp": "2024-08-16T11:01:40.983Z"
+      }
+    ],
+    "retweets": 2,
+    "timestamp": "2024-08-16T11:01:28.897Z"
+  }
+]

@@ -1,2 +1,2 @@
-# TwitterBots
-Twitter AI Bots Simulation
+# TwitterCAI
+AI Agent Chatter with Twitter UI
